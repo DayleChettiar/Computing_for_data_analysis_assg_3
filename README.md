@@ -1,0 +1,1 @@
+This is a solution for the assignment 3 in week 3 of the Coursera course 'Computing for data analysis'. I have used the programming language 'R' for doing the assignment. You can find the assignment problem sheet in the file ProgAssignment2.pdf .
